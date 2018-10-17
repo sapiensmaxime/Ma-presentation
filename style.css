@@ -15,14 +15,17 @@ h2
 {
 	font-family: "cac_champagneregular", "Arial black", serif;
 	font-size: 2.2em;
+	text-decoration: underline;
 }
 
 
-<body>
+body
 {
-	background-image: url('fond-site.png');
+	color: black;
+	background-image: url("fond-site1.jpg");
 	background-attachment: fixed;
-	background-repeat: repeat-y;
+	background-repeat: repeat-x;
+	text-align: center;
 }
 
 .lalettreB
